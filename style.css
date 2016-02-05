@@ -1,0 +1,29 @@
+/* style.css for index.html*/
+/*modified by Olivia MacDougal; last modified on 5 Feb 2016 */
+
+h1 {
+	text-align: center;
+	color: #000000;
+
+}
+
+a:link{
+	text-decoration: none;
+	color: #000000;
+}
+
+a:visited {
+    color: #000000;
+}
+
+a:hover{
+	color: #ff0000;
+
+}
+
+body {
+	margin-left: 25%;
+	margin-right: 25%;
+	text-align: center;
+	background-color: #cccccc;
+}
