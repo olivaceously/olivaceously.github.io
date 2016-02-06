@@ -15,12 +15,29 @@ h3 {
 	padding-top: 3%
 }
 
+li:nth-child(2){
+	list-style-type: none;
+}
+
+li:nth-child(3){
+	list-style-type: none;
+}
+
+li:nth-child(5){
+	list-style-type: none;
+}
+
+li:nth-child(6){
+	list-style-type: none;
+}
+
 .loc{
 	font-style: italic;
+	list-style-type: none;
 }
 
 .job_info {
-	padding-bottom: 5%;
+	list-style-type: none;
 }
 
 .box {
@@ -42,26 +59,6 @@ span {
 
 .activities {
 	padding-bottom: 5%;
-}
-
-.hello {
-	color: #99ccff;
-	font-style: italic;
-	padding-left: 3%;
-}
-
-a:link{
-	text-decoration: none;
-	color: #99ccff;
-	font-style: italic;
-}
-
-a:visited {
-    color: #99ccff;
-}
-
-a:hover{
-	color: #e6e6e6;
 }
 
 /* background img from http://backgrounds.mysitemyway.com/background/tileable-dark-wood-textures-2/ */
