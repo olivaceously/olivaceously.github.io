@@ -44,9 +44,30 @@ span {
 	padding-bottom: 5%;
 }
 
+.hello {
+	color: #99ccff;
+	font-style: italic;
+	padding-left: 3%;
+}
+
+a:link{
+	text-decoration: none;
+	color: #99ccff;
+	font-style: italic;
+}
+
+a:visited {
+    color: #99ccff;
+}
+
+a:hover{
+	color: #e6e6e6;
+}
+
 /* background img from http://backgrounds.mysitemyway.com/background/tileable-dark-wood-textures-2/ */
 body {
 	font-family: Arial;
+	font-size: 18px;
 	color: #e6e6e6;
 	margin-left: 20%;
 	margin-right: 20%;

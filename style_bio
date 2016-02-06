@@ -1,0 +1,48 @@
+h1 {
+	text-align: center;
+	color: #e6e6e6;
+	font-family: Arial;
+	border: solid #151F38;
+	border-radius: 25px;
+	border-color: #e6e6e6;
+}
+
+.box {
+	border: solid #151F38;
+	border-radius: 25px;
+	border-color: #e6e6e6;
+	background: #404040;
+	padding-left: 3%;
+	padding-right: 3%;
+}
+
+.hello {
+	color: #99ccff;
+	font-style: italic;
+	padding-left: 3%;
+}
+
+a:link{
+	text-decoration: none;
+	color: #99ccff;
+	font-style: italic;
+}
+
+a:visited {
+    color: #99ccff;
+}
+
+a:hover{
+	color: #e6e6e6;
+}
+
+/* background img from http://backgrounds.mysitemyway.com/background/tileable-dark-wood-textures-2/ */
+body {
+	font-family: Arial;
+	font-size: 18px;
+	color: #e6e6e6;
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: transparent;
+	background-image: url("images/wood2.jpg"); 
+}
