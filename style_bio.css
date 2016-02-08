@@ -11,6 +11,53 @@ h1 {
 	border-color: #e6e6e6;
 }
 
+/* background img from http://backgrounds.mysitemyway.com/background/tileable-dark-wood-textures-2/ */
+body {
+	font-family: Arial;
+	font-size: 18px;
+	color: #e6e6e6;
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: transparent;
+	background-image: url("images/wood2.jpg"); 
+}
+
+.right {
+	padding-left: 3%
+}
+
+.left {
+	padding-right: 3%
+}
+
+.center {
+	text-align: center;
+}
+
+.line {
+	height: 1px;
+	background: #e6e6e6;
+	width: 100%;
+}
+
+a:link{
+	text-decoration: none;
+	color: #e6e6e6;
+	padding-left: 3%;
+	padding-right: 3%;
+	font-size: 20px;
+	font-family: Arial;
+	text-align: center;
+}
+
+a:visited {
+    color: #e6e6e6;
+}
+
+a:hover{
+	color: #99ccff;
+}
+
 .box {
 	border: solid #151F38;
 	border-radius: 25px;
@@ -26,27 +73,3 @@ h1 {
 	padding-left: 3%;
 }
 
-a:link{
-	text-decoration: none;
-	color: #99ccff;
-	font-style: italic;
-}
-
-a:visited {
-    color: #99ccff;
-}
-
-a:hover{
-	color: #e6e6e6;
-}
-
-/* background img from http://backgrounds.mysitemyway.com/background/tileable-dark-wood-textures-2/ */
-body {
-	font-family: Arial;
-	font-size: 18px;
-	color: #e6e6e6;
-	margin-left: 20%;
-	margin-right: 20%;
-	background-color: transparent;
-	background-image: url("images/wood2.jpg"); 
-}
