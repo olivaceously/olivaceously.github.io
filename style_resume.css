@@ -10,9 +10,13 @@ h1 {
 	border-color: #e6e6e6;
 }
 
+h2 {
+	color:  #99ccff;
+	font-style: italic;
+}
+
 h3 {
 	color:  #99ccff;
-	padding-top: 3%
 }
 
 a:link{
@@ -39,6 +43,11 @@ a:hover{
 
 .left {
 	padding-right: 3%
+}
+
+.middle {
+	padding-left: 3%;
+	padding-right: 3%;
 }
 
 .center {

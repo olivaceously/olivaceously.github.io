@@ -11,6 +11,11 @@ h1 {
 	border-color: #e6e6e6;
 }
 
+h2 {
+	color:  #99ccff;
+	font-style: italic;
+}
+
 /* background img from http://backgrounds.mysitemyway.com/background/tileable-dark-wood-textures-2/ */
 body {
 	font-family: Arial;
@@ -28,6 +33,11 @@ body {
 
 .left {
 	padding-right: 3%
+}
+
+.middle {
+	padding-left: 3%;
+	padding-right: 3%;
 }
 
 .center {
@@ -73,3 +83,12 @@ a:hover{
 	padding-left: 3%;
 }
 
+#email {
+	font-size: 18px;
+	padding-left: 0%;
+	padding-right: 0%
+}
+
+#bottom {
+	padding-bottom: 5%;
+}
